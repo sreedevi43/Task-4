@@ -1,5 +1,6 @@
-Results
+
 📄 Overview
+
 This document contains a series of SQL queries and their corresponding results, along with database index information.
 It serves as a reference for common SQL operations, including filtering, joins, aggregation, and optimization with indexes.
 
